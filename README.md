@@ -36,7 +36,7 @@ python app.py
 - 🎥 Steps to embark on this project include setting up DataRobot, uploading the dataset, training a model, and subsequently predicting house prices. 🚀
 - [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment3)
 
- ## 📚 Assignment 4: Machine Learning with Pycaret
+ ## 📚 Machine Learning with Pycaret
 
 - This assignment explores the versatility of the `Pycaret` library across diverse machine learning tasks.
 - 💡 The repository comprises notebooks that tackle machine learning problems like clustering, anomaly detection, association rules, and time series forecasting. 
