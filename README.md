@@ -5,7 +5,8 @@ Welcome to the repository of DataMining assignments. Dive into the world of data
 ## 📌 Table of Contents
 1. Assignment 1 - [📈 Stock Price Prediction using CRISP-DM](#stock-price-prediction-using-crisp-dm) using GPT-4.
 2. Assignment 2 - [🎮 Trivia Game Application](#trivia-game-application) using "gpt-engineer" & "Github Co-Pilot".
-
+3. Assignment 3 - [📝 AutoML House Price Prediction with DataRobot](#automl-house-price-prediction-with-datarobot)
+4. Assignment 4 - [📚 Machine Learning with Pycaret](#machine-learning-with-pycaret)
 
 ## 📈 Stock Price Prediction using CRISP-DM
 Dive deep into the stock market data of India and understand how machine learning can be harnessed for price predictions.
@@ -26,3 +27,18 @@ For the trivia game, navigate to its directory and execute:
 
 ```bash
 python app.py
+```
+## 📝 AutoML House Price Prediction with DataRobot
+
+- This project revolves around utilizing DataRobot's AutoML capabilities to predict house prices.
+- 🏡 The dataset encompasses various house characteristics, including its area, number of bedrooms, bathrooms, parking spaces, and more.
+- 📊 A video tutorial, hosted on Google Drive, elaborates on the project details. 
+- 🎥 Steps to embark on this project include setting up DataRobot, uploading the dataset, training a model, and subsequently predicting house prices. 🚀
+- [Know More]()
+
+ ## 📚 Assignment 4: Machine Learning with Pycaret
+
+- This assignment explores the versatility of the `Pycaret` library across diverse machine learning tasks.
+- 💡 The repository comprises notebooks that tackle machine learning problems like clustering, anomaly detection, association rules, and time series forecasting. 
+- 📈 Each topic has a linked dataset and a corresponding notebook detailing its implementation. 📔
+- [Know More]()
