@@ -32,13 +32,13 @@ python app.py
 
 - This project revolves around utilizing DataRobot's AutoML capabilities to predict house prices.
 - 🏡 The dataset encompasses various house characteristics, including its area, number of bedrooms, bathrooms, parking spaces, and more.
-- 📊 A video tutorial, hosted on Google Drive, elaborates on the project details. 
+- 📊 [A video tutorial](https://drive.google.com/file/d/1g01zSFxES2x99WvPKhP45XjO83JzeC1V/view), hosted on Google Drive, elaborates on the project details. 
 - 🎥 Steps to embark on this project include setting up DataRobot, uploading the dataset, training a model, and subsequently predicting house prices. 🚀
-- [Know More]()
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment3)
 
  ## 📚 Assignment 4: Machine Learning with Pycaret
 
 - This assignment explores the versatility of the `Pycaret` library across diverse machine learning tasks.
 - 💡 The repository comprises notebooks that tackle machine learning problems like clustering, anomaly detection, association rules, and time series forecasting. 
 - 📈 Each topic has a linked dataset and a corresponding notebook detailing its implementation. 📔
-- [Know More]()
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment4)
