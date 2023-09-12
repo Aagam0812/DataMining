@@ -23,12 +23,14 @@ Dive deep into various machine learning tasks using the `Pycaret` library. Each 
 ## 🎨 Multiclass Classification
 .<img src="https://touchstoneinstitute.ca/wp-content/uploads/15_Multiple_Choice_Exam_Alt.gif" width="400" height="200">
 - Classify data into more than two categories.
+- **Implemented Gradio**
 - Dataset : [Prediction of music genre](https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre)
 - [View Notebook](https://github.com/Aagam0812/DataMining/new/main/Assignment4/Pycaret_Multiclass_classification.ipynb)
 
 ## 📈 Regression
 .<img src="https://paulvanderlaken.files.wordpress.com/2020/01/ezgif.com-video-to-gif-1.gif?w=600" width="400" height="200">
 - Predict continuous outcomes for your data.
+- **Implemented Gradio**
 - Dataset : [House price prediction](https://www.kaggle.com/datasets/shree1992/housedata)
 - [View Notebook](https://github.com/Aagam0812/DataMining/new/main/Assignment4/Pycaret_Regression.ipynb)
 
@@ -55,7 +57,7 @@ Dive deep into various machine learning tasks using the `Pycaret` library. Each 
 - Dive into pure time series forecasting.
 - Dataset : Customs Dataset created by GPT4 for Sales
 - [View Notebook](https://github.com/Aagam0812/DataMining/new/main/Assignment4/Pycaret_Timeseries_Univariate_without_Exogenous_Variables.ipynb)
-- 
+
 ## ⏰ Time Series with Exogenous Variables
 .<img src="https://cdn-images-1.medium.com/max/640/0*7-8r0x-nRpuJm7bw.gif" width="400" height="200">
 - Forecast time series data while considering external variables.
