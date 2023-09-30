@@ -15,7 +15,7 @@ Welcome to the repository for the Data Science assignment where we dive deep int
 
 **Dataset:** [Campus Placement Data for Engineering Colleges](https://www.kaggle.com/datasets/chandhurubaskar/campus-placement-data-for-engineering-colleges)
 
-📄 [Detailed Research Paper](./CRISPDM/CRISPDM.pdf)
+📄 [Detailed Research Paper](./CRISP_DM/CRISPDM.pdf)
 
 📖 [Medium Article](https://medium.com/@aagamshah0812/enhancing-educational-planning-predicting-student-placement-using-crisp-dm-and-data-science-8db6a112b250)
 
@@ -41,7 +41,7 @@ Welcome to the repository for the Data Science assignment where we dive deep int
 
 **Dataset:** [Indian Houses Data Analysis](https://www.kaggle.com/datasets/aemyjutt/indianhousesdataanalysis)
 
-📄 [Detailed Research Paper](./KDD/KDD.pdf)
+📄 [Detailed Research Paper](./KDD/KDD_Research_Paper.pdf)
 
 📖 [Medium Article](https://medium.com/@aagamshah0812/demystifying-indian-house-prices-a-deep-dive-with-the-kdd-process-402789e63b7)
 
