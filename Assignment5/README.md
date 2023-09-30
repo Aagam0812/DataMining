@@ -19,6 +19,8 @@ Welcome to the repository for the Data Science assignment where we dive deep int
 
 📖 [Medium Article](https://medium.com/@aagamshah0812/enhancing-educational-planning-predicting-student-placement-using-crisp-dm-and-data-science-8db6a112b250)
 
+🔗 [Colab Code](./CRISP_DM/CRISPDM.ipynb)
+
 **Brief**: This research leverages the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to predict student placement outcomes in educational institutions. By understanding and predicting the student placement process, this approach offers enhanced educational planning and decision-making.
 
 ---
@@ -32,6 +34,8 @@ Welcome to the repository for the Data Science assignment where we dive deep int
 
 📖 [Medium Article](https://medium.com/@aagamshah0812/decoding-employee-satisfaction-an-analytical-expedition-with-semma-methodology-49fa1bdba073)
 
+🔗 [Colab Code](./SEMMA/SEMMA.ipynb)
+
 **Brief**: This research undertakes an analytical journey into the facets of employee satisfaction at Tata Motors. Utilizing the SEMMA methodology, the study dives into patterns, sentiments, and factors that influence workplace contentment, extracting insights from employee ratings and textual feedback. The ultimate aim is to offer organizations a blueprint for enhancing the work environment and strengthening corporate culture.
 
 ---
@@ -44,6 +48,8 @@ Welcome to the repository for the Data Science assignment where we dive deep int
 📄 [Detailed Research Paper](./KDD/KDD_Research_Paper.pdf)
 
 📖 [Medium Article](https://medium.com/@aagamshah0812/demystifying-indian-house-prices-a-deep-dive-with-the-kdd-process-402789e63b7)
+
+🔗 [Colab Code](./KDD/KDD.ipynb)
 
 **Brief**: This research focuses on the prediction of house prices in India, capturing the essence of various influential features. By employing the KDD process, the study offers a systematic approach to data analysis, preprocessing, transformation, mining, and evaluation. The insights gathered present a valuable perspective for stakeholders in the Indian real estate sector, highlighting the diverse factors affecting house prices.
 
