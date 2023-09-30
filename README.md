@@ -7,6 +7,7 @@ Welcome to the repository of DataMining assignments. Dive into the world of data
 2. Assignment 2 - [🎮 Trivia Game Application](#trivia-game-application) using "gpt-engineer" & "Github Co-Pilot".
 3. Assignment 3 - [📝 AutoML House Price Prediction with DataRobot](#automl-house-price-prediction-with-datarobot)
 4. Assignment 4 - [📚 Machine Learning with Pycaret](#machine-learning-with-pycaret)
+5. Assignment 5 -[🎓 Exploring CRISP-DM, SEMMA, KDD Methodology](#exploring_crisp-dm,_semma,_kdd_methodology)
 
 ## 📈 Stock Price Prediction using CRISP-DM
 Dive deep into the stock market data of India and understand how machine learning can be harnessed for price predictions.
@@ -42,3 +43,15 @@ python app.py
 - 💡 The repository comprises notebooks that tackle machine learning problems like clustering, anomaly detection, association rules, and time series forecasting. 
 - 📈 Each topic has a linked dataset and a corresponding notebook detailing its implementation. 📔
 - [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment4)
+
+## 🎓 CRISP-DM on Campus Placement Data  
+- This research leverages the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to predict student placement outcomes in educational institutions. By understanding and predicting the student placement process, this approach offers enhanced educational planning and decision-making.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment5)
+
+## 🚗 SEMMA on Tata Motors Employee Reviews  
+- This research undertakes an analytical journey into the facets of employee satisfaction at Tata Motors. Utilizing the SEMMA methodology, the study dives into patterns, sentiments, and factors that influence workplace contentment, extracting insights from employee ratings and textual feedback. The ultimate aim is to offer organizations a blueprint for enhancing the work environment and strengthening corporate culture.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment5)
+  
+## 🏠 KDD on Indian Houses Data Analysis  
+- This research focuses on the prediction of house prices in India, capturing the essence of various influential features. By employing the KDD process, the study offers a systematic approach to data analysis, preprocessing, transformation, mining, and evaluation. The insights gathered present a valuable perspective for stakeholders in the Indian real estate sector, highlighting the diverse factors affecting house prices.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment5)
