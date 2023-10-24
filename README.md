@@ -8,6 +8,9 @@ Welcome to the repository of DataMining assignments. Dive into the world of data
 3. Assignment 3 - [📝 AutoML House Price Prediction with DataRobot](#automl-house-price-prediction-with-datarobot)
 4. Assignment 4 - [📚 Machine Learning with Pycaret](#machine-learning-with-pycaret)
 5. Assignment 5 -[🎓 Exploring CRISP-DM, SEMMA, KDD Methodology](#exploring_crisp-dm,_semma,_kdd_methodology)
+6. Assignment 6 - [📊 Employee Salaries EDA](#employee-salaries-eda)
+7. Assignment 7 - [📊 AutoEDA: Automated Exploratory Data Analysis](#autoeda-automated-exploratory-data-analysis)
+8. Assignment 8 - [🛠 Apache Beam](#apache-beam)
 
 ## 📈 Stock Price Prediction using CRISP-DM
 Dive deep into the stock market data of India and understand how machine learning can be harnessed for price predictions.
@@ -55,3 +58,39 @@ python app.py
 ## 🏠 KDD on Indian Houses Data Analysis  
 - This research focuses on the prediction of house prices in India, capturing the essence of various influential features. By employing the KDD process, the study offers a systematic approach to data analysis, preprocessing, transformation, mining, and evaluation. The insights gathered present a valuable perspective for stakeholders in the Indian real estate sector, highlighting the diverse factors affecting house prices.
 - [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment5)
+
+## 📊 Employee Salaries EDA using D3.js Visualizations
+
+An exploratory data analysis (EDA) of employee salaries dataset, including advanced visualizations and insights. 🚀
+
+### Overview 📋
+
+This repository contains an in-depth EDA of an employee salaries dataset. We've explored and visualized the data using Python and D3.js for a comprehensive analysis.
+#### Note: Uploaded ipynb file is not showing proper code. Please use the colab link to access the code.
+#### Colab link : [Access here](https://colab.research.google.com/drive/14332HNdlFDmJ-NUr7aGhhALjhJqqaVPQ?usp=sharing)
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment6)
+
+## 📊 AutoEDA: Automated Exploratory Data Analysis
+
+This assignment is dedicated to exploring automated tools and techniques to perform Exploratory Data Analysis (EDA). Dive into the Jupyter notebooks to witness the power and efficiency of automated EDA tools and check out the generated HTML reports for a summarized view.
+
+- **📓 Jupyter Notebook**: [AutoEDA.ipynb](https://github.com/Aagam0812/DataMining/tree/main/Assignment7/AutoEDA.ipynb) - Understand the step-by-step process of using automated EDA tools within a Jupyter notebook environment.
+- **📄 Reports**: 
+  - [PandaProfiling Report](https://github.com/Aagam0812/DataMining/tree/main/Assignment7/PandaProfilingEDA_1.html) - A comprehensive EDA report generated using the `pandas-profiling` tool.
+  - [Sweetviz Report](https://github.com/Aagam0812/DataMining/tree/main/Assignment7/Sweetviz.html) - A detailed EDA report generated using the `Sweetviz` tool.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment7)
+
+## 🛠 Apache Beam
+
+📖 **Description**: This project demonstrates Apache Beam, a unified model for building data processing pipelines. It showcases various features like windowing, triggers, custom processing functions, and more using a simulated website log data scenario.
+
+🌟 **Features**:
+- Time-windowed data processing
+- Use of custom ParDo functions
+- Trigger-based data processing
+- Identifying user actions within a time window
+- Filtering out bot-like behavior
+
+🎯 **Goals**: The primary goals of this project are to provide a practical example of using Apache Beam for data processing and to showcase its key features.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment8)
+
