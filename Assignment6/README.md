@@ -5,6 +5,7 @@ An exploratory data analysis (EDA) of employee salaries dataset, including advan
 ## Overview 📋
 
 This repository contains an in-depth EDA of an employee salaries dataset. We've explored and visualized the data using Python and D3.js for a comprehensive analysis.
+### Note: Uploaded ipynb file is not showing proper code please use colab link to access code.
 ### Colab link : https://colab.research.google.com/drive/14332HNdlFDmJ-NUr7aGhhALjhJqqaVPQ?usp=sharing
 ## Visualizations 📈
 
