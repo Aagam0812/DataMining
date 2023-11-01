@@ -8,6 +8,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 🎵 **Audio.ipynb** 🎵
 - **Dataset**: [Audio MNIST](https://www.kaggle.com/datasets/alanchn31/free-spoken-digits?rvi=1)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/Audio.ipynb)
 - **Description**: Analyzes audio data, focusing on extracting relevant features for sound analysis, especially in the context of speech and music.
 - **Key Features**:
   - Mel-frequency cepstral coefficients (MFCCs)
@@ -20,6 +21,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 🌐 **Graph_data.ipynb** 🌐
 - **Dataset**: [Google Web Graph](https://www.kaggle.com/datasets/pappukrjha/google-web-graph)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/Graph_data.ipynb)
 - **Description**: Analyzes a directed graph originating from the Google programming contest in 2002.
 - **Key Processes**:
   - Graph Representation
@@ -30,6 +32,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 🖼️ **ImageData.ipynb** 🖼️
 - **Dataset**: [CAPTCHA Images](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/ImageData.ipynb)
 - **Description**: Contains images, potentially for tasks like classification or object detection.
 - **Key Processes**:
   - Image Augmentation
@@ -40,6 +43,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 🎥 **Video.ipynb** 🎥
 - **Dataset**: [Highway Traffic Videos Dataset](https://www.kaggle.com/datasets/aryashah2k/highway-traffic-videos-dataset)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/Video.ipynb)
 - **Description**: Involves analyzing .avi video files & extracting important feature from the video .
 - **Key Features**:
   - Motion Features (from optical flow)
@@ -50,6 +54,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### ⏳ **Timeseries.ipynb** ⏳
 - **Dataset**: [Daily Climate time series data](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/Timeseries.ipynb)
 - **Description**: Conducts exploratory data analysis (EDA) on datasets to understand patterns in timeseries data.
 - **Key Processes**:
   - Feature Transformation
@@ -59,6 +64,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 📊 **tabular_data.ipynb** 📊
 - **Dataset**: [World Poverty Data](https://www.kaggle.com/datasets/eishkaran/world-poverty-data)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/tabular_data.ipynb)
 - **Description**: Represents global poverty data with features like country names, years, and various poverty indicators.
 - **Key Features**:
   - Feature Reduction using PCA
@@ -69,6 +75,7 @@ Medium Article : [Unlocking Insights from Diverse Datasets: A Deep Dive into Dat
 
 #### 🌌 **Spatio_temporal.ipynb** 🌌
 - **Dataset**: [GTFS Traffic Prediction Dataset](https://www.kaggle.com/datasets/charvibannur/gtfs-traffic-prediction-dataset)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment9/Spatio_temporal.ipynb)
 - **Description**: Analyses spatial-temporal data, particularly focusing on geographic and time-based features.
 - **Key Features**:
   - Spatial Features (latitude, longitude)
