@@ -1,6 +1,6 @@
 # 📊 DataMining Assignments by Aagam
 
-Welcome to the repository of DataMining assignments. Dive into the world of data science, from stock price predictions to trivia games, and explore the projects created by Aagam.
+Welcome to the repository of DataMining assignments. Dive into the world of data science and explore the projects created by Aagam.
 
 ## 📌 Table of Contents
 1. Assignment 1 - [📈 Stock Price Prediction using CRISP-DM](#stock-price-prediction-using-crisp-dm) using GPT-4.
@@ -11,6 +11,7 @@ Welcome to the repository of DataMining assignments. Dive into the world of data
 6. Assignment 6 - [📊 Employee Salaries EDA](#employee-salaries-eda)
 7. Assignment 7 - [📊 AutoEDA: Automated Exploratory Data Analysis](#autoeda-automated-exploratory-data-analysis)
 8. Assignment 8 - [🛠 Apache Beam](#apache-beam)
+9. Assignment 9 - [📚 Unlocking Insights from Diverse Datasets](#unlocking-insights-from-diverse-datasets)
 
 ## 📈 Stock Price Prediction using CRISP-DM
 Dive deep into the stock market data of India and understand how machine learning can be harnessed for price predictions.
@@ -93,4 +94,8 @@ This assignment is dedicated to exploring automated tools and techniques to perf
 
 🎯 **Goals**: The primary goals of this project are to provide a practical example of using Apache Beam for data processing and to showcase its key features.
 - [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment8)
+
+## 📚 Unlocking Insights from Diverse Datasets
+- Delve into data preparation and feature engineering across multiple data types including audio, graph, image, video, timeseries, tabular, and spatio-temporal datasets.
+- [Know More](https://github.com/Aagam0812/DataMining/tree/main/Assignment9)
 
