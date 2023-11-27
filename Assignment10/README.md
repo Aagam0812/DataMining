@@ -18,36 +18,45 @@ This project is dedicated to implementing and demonstrating various clustering a
 
 ### K-Means Clustering from Scratch
 - **Objective**: Implement K-Means clustering algorithm from scratch. 🧠
-- **Resources**: [K-Means Clustering Colab]()
+- **Dataset**: [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/Kmeans.ipynb)
 
 ### Hierarchical Clustering
 - **Objective**: Explore hierarchical clustering techniques. 🌲
-- **Resources**: [Hierarchical Clustering Colab]()
+- **Dataset**: [Credit Card Customer Data](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/Hierarchical.ipynb)
 
 ### Gaussian Mixture Models Clustering
 - **Objective**: Implement Gaussian mixture models for clustering. 🔍
-- **Resources**: [Gaussian Mixtures Colab ]()
+- **Dataset**: [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/Gaussian.ipynb)
 
 ### DB Scan Clustering with PyCaret
 - **Objective**: Utilize PyCaret library for DB Scan clustering. 🔎
-- **Resources**: [DB Scan Clustering Colab]()
+- **Dataset**: [App Users Segmentation: Case Study](https://www.kaggle.com/datasets/bhanupratapbiswas/app-users-segmentation-case-study)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/DBScan.ipynb)
 
 ### Anomaly Detection Using PyOD
 - **Objective**: Implement anomaly detection in datasets using PyOD. 🚨
-- **Resources**: [Anomaly Detection in Time Series]()
+- **Dataset**: [Time Series starter dataset](https://www.kaggle.com/datasets/podsyp/time-series-starter-dataset)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/Anomaly_with_pyOD.ipynb)
 
 ### Clustering of Time Series Data
 - **Objective**: Apply clustering techniques to time series data. ⏳
-- **Resources**: [Time Series Clustering]()
-
+- **Dataset**: [Time series analysis](https://www.kaggle.com/datasets/kandij/electric-production)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/Timeseries_clustering.ipynb)
+  
 ### Clustering of Documents with LLM Embeddings
 - **Objective**: Cluster documents using state-of-the-art embeddings. 📄
-- **Resources**: [LLM Embeddings for Document Clustering]()
-
+- **Dataset**: [Document Classification](https://www.kaggle.com/datasets/sachinsharma1123/document-classification)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/LLM_Embedding.ipynb)
+  
 ### Clustering with Images Using ImageBind LLM Embeddings
 - **Objective**: Explore image clustering using ImageBind LLM embeddings. 🖼️
-- **Resources**: [Image Clustering]()
+- **Dataset**: [Satellite Image Classification](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/ImagebindLLM.ipynb)
 
-### Audio Embeddings Using ImageBind LLMs
-- **Objective**: Cluster audio files using ImageBind LLM embeddings. 🎵
-- **Resources**: [K-Means and PCA in Audio Clustering]()
+### Clustering of Audio data
+- **Objective**: Cluster audio files using Kmeans. 🎵
+- **Dataset**: [Audio MNIST](https://www.kaggle.com/datasets/alanchn31/free-spoken-digits?rvi=1)
+- **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aagam0812/DataMining/blob/main/Assignment10/AudioCluster.ipynb)
