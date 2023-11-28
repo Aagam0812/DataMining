@@ -22,7 +22,7 @@ Welcome to a comprehensive resource on Explainable AI (XAI) 🧠. This repositor
 
 ### 🎥 Video Presentation
 - **Description**: A comprehensive video presentation that visually and audibly explains the concepts and significance of XAI.
-- **Link**: [Watch the Video Presentation](<Insert Google Drive link here>)
+- **Link**: [Watch the Video Presentation](https://drive.google.com/file/d/1pKqzMLG9Eg_eS_Wj-9nxVWhPTXBs3U1D/view?usp=sharing)
 
 ## 📈 Overview
 
