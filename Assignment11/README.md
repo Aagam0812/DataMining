@@ -16,5 +16,7 @@ This repository contains Jupyter notebooks demonstrating various dimensionality 
 
 3. **Dimensionality Reduction using Databricks** 🔥:
    - A notebook demonstrating how to perform dimensionality reduction using Databricks.
+   - **Dataset**: <a target="_blank" href="https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
+   - **Databricks** : [Databricks link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/740066010198346/4191341571978984/189803703762442/latest.html)
 
 
